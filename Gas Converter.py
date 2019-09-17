@@ -1,3 +1,4 @@
+#Spencer Paquette 9/17/19
 def gasConverter():
     gasGallons = float(input("How many gallons of gas are you using?"))
     gasLiters = gasGallons * 3.78541178
